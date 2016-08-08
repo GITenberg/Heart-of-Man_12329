@@ -1,0 +1,28 @@
+_repo: Heart-of-Man_12329
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Woodberry, George Edward
+    birthdate: 1855
+    deathdate: 1930
+    gutenberg_agent_id: '4319'
+    url: http://www.gutenberg.org/2009/agents/4319
+    wikipedia: http://en.wikipedia.org/wiki/George_Edward_Woodberry
+description: ''
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12329'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poetry'
+- !lcsh 'Taormina (Italy)'
+- !lcc 'PS'
+- !lcsh 'Democracy'
+- GITenberg
+tableOfContents: Taormina -- A new defence of poetry -- Democracy -- The ride.
+title: Heart of Man
+url: http://www.gutenberg.org/ebooks/12329
